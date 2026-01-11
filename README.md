@@ -1,10 +1,9 @@
-Oyaage me project eka godak watinne eke Unit Testing side eka cover wenna Jest use karala thiyana nisa. QA Intern kenek widiyata UI testing (Selenium/Playwright) walata amatharawa, code level eke testing (Unit Testing) gana danuma thibeema oyaata loku "competitive advantage" ekak.
-+4
 
-Menna me project ekata danna hoda README.md file eka:
 
 🛒 E-Commerce Cart Logic Testing (Jest)
+
 🌟 Project Overview
+
 This project focuses on Unit Testing the core business logic of an e-commerce shopping cart. By using Jest, I ensured that calculations for totals, item additions, and deletions are accurate before they even reach the UI level.
 
 🛠️ Tech Stack
