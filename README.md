@@ -32,8 +32,8 @@ Boundary Testing: Handling cases like empty carts or zero-quantity items.
 
 git clone https://github.com/anu123538/Testing-e-commerce-cart-using-jest.git
 2.Install Jest:
-
 npm install
+
 3.Run Tests:
 
 npm test
