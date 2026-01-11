@@ -1,35 +1,47 @@
-<img width="1135" height="334" alt="Screenshot 2025-10-02 184629" src="https://github.com/user-attachments/assets/9fd1817a-538e-4184-9757-b3758e449072" />
+Oyaage me project eka godak watinne eke Unit Testing side eka cover wenna Jest use karala thiyana nisa. QA Intern kenek widiyata UI testing (Selenium/Playwright) walata amatharawa, code level eke testing (Unit Testing) gana danuma thibeema oyaata loku "competitive advantage" ekak.
++4
 
-# My Project - E-Commerce Cart with Jest
+Menna me project ekata danna hoda README.md file eka:
 
-## Description
-This is a sample e-commerce cart project that demonstrates automated testing using Jest. 
-It includes adding/removing items, calculating totals, and applying discounts.
+🛒 E-Commerce Cart Logic Testing (Jest)
+🌟 Project Overview
+This project focuses on Unit Testing the core business logic of an e-commerce shopping cart. By using Jest, I ensured that calculations for totals, item additions, and deletions are accurate before they even reach the UI level.
 
-## How to Run
-1. Clone the repo:
+🛠️ Tech Stack
+
+Testing Framework: Jest 
++4
+
+
+Language: JavaScript 
++4
+
+
+Methodology: Unit Testing & Functional Verification 
+
+🧪 Key Scenarios Tested
+Add to Cart: Validating if items are correctly added to the cart array.
+
+Price Calculation: Testing the logic for subtotal and grand total calculations.
+
+Remove Items: Ensuring the cart state updates correctly when an item is removed.
+
+Boundary Testing: Handling cases like empty carts or zero-quantity items.
+
+🚀 How to Run
+ 1.Clone the Repo:
+
 git clone https://github.com/anu123538/Testing-e-commerce-cart-using-jest.git
+2.Install Jest:
 
-
-2. Navigate to project folder:
-cd my-project
-
-
-3. Install dependencies:
 npm install
+3.Run Tests:
 
-
-4. Run tests:
 npm test
 
 
+<img width="1135" height="334" alt="Screenshot 2025-10-02 184629" src="https://github.com/user-attachments/assets/9fd1817a-538e-4184-9757-b3758e449072" />
 
-## Tools Used
-- JavaScript
-- Jest (for automated testing)
-- Node.js
 
-## Author
-Anuththra
 
 
