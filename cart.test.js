@@ -3,7 +3,7 @@ const Cart = require('./cart');
 let cart;
 
 beforeEach(() => {
-  cart = new Cart(); // start with a fresh cart for each test
+  cart = new Cart(); 
 });
 
 test('add item to cart', () => {
