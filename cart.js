@@ -1,4 +1,4 @@
-// cart.js
+
 class Cart {
   constructor() {
     this.items = [];
